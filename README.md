@@ -9,7 +9,7 @@ Two things:
 
 ## Install
 ``` sh
-npm install dill --save
+npm install diii --save
 ```
 
 ## Usage
