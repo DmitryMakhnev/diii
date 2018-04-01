@@ -186,7 +186,7 @@ export function registerPrimaryInjection(
 
 /**
  * @template T
- * @param {function(): T}injectorPointer
+ * @param {function(): T} injectorPointer
  * @return {T}
  */
 export function inject(injectorPointer) {
