@@ -1,6 +1,6 @@
 {
   "name": "diii",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dependency injection library based on injections refs",
   "main": "build/diii.cjs.js",
   "module": "build/diii.es.js",
