@@ -46,6 +46,9 @@ switch (env) {
                 sourcemap: true
             }
         );
+        config.plugins.push(
+            buble(),
+        );
         break;
     case 'es':
         config.output.push(
